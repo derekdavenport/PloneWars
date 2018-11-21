@@ -1,0 +1,2 @@
+default view appears broken, in the upload part, downloading OK
+forms again taking next text for blank values
